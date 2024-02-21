@@ -138,4 +138,5 @@ cursor = conexao.cursor()
 
 
 conexao.commit()
+
 conexao.close
